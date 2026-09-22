@@ -1,0 +1,9 @@
+Jan 10 09:15:22 server sshd[1234]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Jan 10 09:15:25 server sshd[1235]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Jan 10 09:16:01 server sshd[1240]: Accepted password for user1 from 10.0.0.5 port 22 ssh2
+Jan 10 09:17:33 server sshd[1250]: Failed password for root from 203.0.113.9 port 22 ssh2
+Jan 10 09:17:35 server sshd[1251]: Failed password for root from 203.0.113.9 port 22 ssh2
+Jan 10 09:17:36 server sshd[1252]: Failed password for root from 203.0.113.9 port 22 ssh2
+Jan 10 09:18:00 server kernel: error: disk read failure
+Jan 10 09:19:12 server sshd[1260]: Invalid user test from 198.51.100.7 port 22
+Jan 10 09:20:45 server sudo: user1 : permission denied
