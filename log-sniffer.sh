@@ -1,6 +1,7 @@
 #!/bin/bash
 # log-sniffer.sh v2 - SOC triage: auth anomalies + web attack signatures
 # Usage: ./log-sniffer.sh <logfile>
+# v2: also detects web attack signatures (XSS, SQLi, path traversal) — red-team knowledge as a blue-team tool.
 
 LOGFILE="$1"
 
